@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\CSR\Desktop\keil\main.uvproj
+Project File Date:  01/06/2021
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(3): warning C318: can't open file 'display.h'
+MAIN.C(17): warning C206: 'display': missing function-prototype
+MAIN.C(20): warning C206: 'dispSet': missing function-prototype
+MAIN.C(20): error C267: 'dispSet': requires ANSI-style prototype
+compiling display.c...
+display\display.c(3): warning C318: can't open file 'delay.h'
+DISPLAY\DISPLAY.C(23): warning C206: 'delay': missing function-prototype
+DISPLAY\DISPLAY.C(23): error C267: 'delay': requires ANSI-style prototype
+compiling delay.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(3): warning C318: can't open file 'display.h'
+MAIN.C(17): warning C206: 'display': missing function-prototype
+MAIN.C(20): warning C206: 'dispSet': missing function-prototype
+MAIN.C(20): error C267: 'dispSet': requires ANSI-style prototype
+compiling timer.c...
+compiling key.c...
+compiling pre.c...
+compiling display.c...
+display\display.c(3): warning C318: can't open file 'delay.h'
+DISPLAY\DISPLAY.C(23): warning C206: 'delay': missing function-prototype
+DISPLAY\DISPLAY.C(23): error C267: 'delay': requires ANSI-style prototype
+compiling delay.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(3): warning C318: can't open file 'display.h'
+MAIN.C(17): warning C206: 'display': missing function-prototype
+MAIN.C(20): warning C206: 'dispSet': missing function-prototype
+MAIN.C(20): error C267: 'dispSet': requires ANSI-style prototype
+compiling timer.c...
+compiling key.c...
+compiling pre.c...
+compiling display.c...
+display\display.c(3): warning C318: can't open file 'delay.h'
+DISPLAY\DISPLAY.C(23): warning C206: 'delay': missing function-prototype
+DISPLAY\DISPLAY.C(23): error C267: 'delay': requires ANSI-style prototype
+compiling delay.c...
+Target not created
